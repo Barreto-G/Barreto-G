@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 No momento estudando C#
+- 🌱 No momento estudando C# e Python
 - 🔭 Tenho experiência com Programação em C e C++
 - ⚡ Atualmente cursando Engenharia da Computação na UTFPR
 
