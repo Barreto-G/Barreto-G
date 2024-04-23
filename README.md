@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 No momento estudando C# e Python
-- 🔭 Tenho experiência com Programação em C e C++
+- 🌱 No momento estudando GDScript
+- 🔭 Tenho experiência com Programação em C/C++, C# e Python
 - ⚡ Atualmente cursando Engenharia da Computação na UTFPR
 
 <!--
