@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 No momento estudando GDScript
-- 🔭 Tenho experiência com Programação em C/C++, C# e Python
-- ⚡ Atualmente cursando Engenharia da Computação na UTFPR
+- 🔭 Experiência com Programação em C/C++, C# e Python
+- ⚡ Cursando Engenharia da Computação na UTFPR
 
 <!--
 **Barreto-G/Barreto-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
